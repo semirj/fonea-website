@@ -44,16 +44,16 @@
     "step3desc": "Redirigez vos appels vers fonea. D\u00e8s maintenant, l\u2019IA g\u00e8re chaque appel de mani\u00e8re professionnelle."
   },
   "industries": {
-    "title": "Solutions par secteur",
+    "title": "Con\u00e7u pour l\u2019excellence suisse.",
+    "subtitle": "Optimis\u00e9 pour les secteurs aux plus hautes exigences de qualit\u00e9.",
     "medical": "Cabinets m\u00e9dicaux",
-    "medicalDesc": "Prise de rendez-vous automatique, commandes d\u2019ordonnances et pr\u00e9-triage des urgences selon vos crit\u00e8res.",
+    "medicalDesc": "Soulagement pour l\u2019\u00e9quipe d\u2019accueil, disponibilit\u00e9 garantie pour les patients.",
     "legal": "Cabinets d\u2019avocats",
-    "legalDesc": "Prise en charge pr\u00e9cise des dossiers et transfert des appels urgents au bon associ\u00e9.",
+    "legalDesc": "Discr\u00e9tion au plus haut niveau. Tri intelligent des mandats importants.",
     "trades": "Artisanat",
-    "tradesDesc": "Hotline d\u2019urgence pour les services de garde et demandes de devis directement par t\u00e9l\u00e9phone.",
+    "tradesDesc": "Ne manquez plus jamais un mandat pendant que vous \u00eates sur le chantier.",
     "realestate": "Immobilier",
-    "realestateDesc": "Qualification des prospects pour les visites et gestion efficace des demandes de locataires.",
-    "learnMore": "En savoir plus"
+    "realestateDesc": "Qualifier les prospects et coordonner les visites automatiquement."
   },
   "security": {
     "title1": "Solution suisse.",

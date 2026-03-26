@@ -44,16 +44,16 @@
     "step3desc": "Forward your calls to fonea. From now on, AI handles every call professionally and friendly."
   },
   "industries": {
-    "title": "Industry-specific solutions",
+    "title": "Built for Swiss excellence.",
+    "subtitle": "Optimized for industries with the highest quality standards.",
     "medical": "Medical practices",
-    "medicalDesc": "Automatic appointment booking, prescription orders and pre-triage of emergencies according to your specifications.",
+    "medicalDesc": "Relief for your reception team, guaranteed availability for patients.",
     "legal": "Law firms",
-    "legalDesc": "Precise case intake and forwarding of urgent client calls to the right partner.",
+    "legalDesc": "Discretion at the highest level. Intelligent pre-sorting of important cases.",
     "trades": "Trades",
-    "tradesDesc": "Emergency hotline for on-call services and simple quote requests directly over the phone.",
+    "tradesDesc": "Never miss a job while you\u2019re on the construction site.",
     "realestate": "Real estate",
-    "realestateDesc": "Prospect qualification for viewings and efficient management of tenant inquiries.",
-    "learnMore": "Learn more"
+    "realestateDesc": "Qualify prospects and coordinate viewings automatically."
   },
   "security": {
     "title1": "Swiss solution.",

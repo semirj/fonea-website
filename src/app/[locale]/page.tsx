@@ -180,48 +180,52 @@ export default async function Home({
           </div>
         </section>
 
-        {/* Industries Bento Grid */}
+        {/* Industries */}
         <section className="py-24 bg-white">
           <div className="max-w-7xl mx-auto px-8">
-            <h2 className="text-3xl font-bold text-center mb-16">{t.industries.title}</h2>
-            <div className="grid grid-cols-1 md:grid-cols-6 gap-6">
-              {/* Medical - large */}
-              <div className="md:col-span-3 bg-primary p-10 rounded-xl flex flex-col justify-between text-white relative overflow-hidden min-h-[280px]">
-                <div className="relative z-10">
-                  <h3 className="text-2xl font-bold mb-4">{t.industries.medical}</h3>
-                  <p className="text-white/60 max-w-sm">{t.industries.medicalDesc}</p>
+            <div className="mb-16">
+              <h2 className="text-4xl font-extrabold tracking-tight mb-4">{t.industries.title}</h2>
+              <p className="text-secondary text-lg">{t.industries.subtitle}</p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+              {[
+                {
+                  title: t.industries.medical,
+                  desc: t.industries.medicalDesc,
+                  img: "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=600&h=800&fit=crop&q=80",
+                },
+                {
+                  title: t.industries.legal,
+                  desc: t.industries.legalDesc,
+                  img: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=800&fit=crop&q=80",
+                },
+                {
+                  title: t.industries.trades,
+                  desc: t.industries.tradesDesc,
+                  img: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=800&fit=crop&q=80",
+                },
+                {
+                  title: t.industries.realestate,
+                  desc: t.industries.realestateDesc,
+                  img: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&h=800&fit=crop&q=80",
+                },
+              ].map((item) => (
+                <div
+                  key={item.title}
+                  className="group relative rounded-2xl overflow-hidden h-[420px] cursor-pointer"
+                >
+                  <img
+                    src={item.img}
+                    alt={item.title}
+                    className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
+                  <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
+                    <h3 className="text-xl font-bold mb-2">{item.title}</h3>
+                    <p className="text-sm text-white/80 leading-relaxed">{item.desc}</p>
+                  </div>
                 </div>
-                <svg className="absolute -bottom-4 -right-4 w-44 h-44 opacity-5" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6h-4V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2H4a2 2 0 0 0-2 2v11a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2zM10 4h4v2h-4V4zm5 11h-2v2a1 1 0 0 1-2 0v-2H9a1 1 0 0 1 0-2h2v-2a1 1 0 0 1 2 0v2h2a1 1 0 0 1 0 2z"/></svg>
-              </div>
-              {/* Legal - large */}
-              <div className="md:col-span-3 bg-surface-dim p-10 rounded-xl flex flex-col justify-between min-h-[280px]">
-                <div>
-                  <h3 className="text-2xl font-bold mb-4">{t.industries.legal}</h3>
-                  <p className="text-secondary max-w-sm">{t.industries.legalDesc}</p>
-                </div>
-                <div className="mt-8">
-                  <span className="text-primary font-bold flex items-center gap-2">
-                    {t.industries.learnMore}
-                    <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-                  </span>
-                </div>
-              </div>
-              {/* Trades - small */}
-              <div className="md:col-span-2 bg-white border border-muted/30 p-8 rounded-xl">
-                <svg className="w-8 h-8 text-accent mb-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
-                <h3 className="text-xl font-bold mb-2">{t.industries.trades}</h3>
-                <p className="text-sm text-secondary">{t.industries.tradesDesc}</p>
-              </div>
-              {/* Real estate - wide */}
-              <div className="md:col-span-4 bg-white border border-muted/30 p-8 rounded-xl flex items-center gap-8">
-                <div className="flex-1">
-                  <h3 className="text-xl font-bold mb-2">{t.industries.realestate}</h3>
-                  <p className="text-sm text-secondary">{t.industries.realestateDesc}</p>
-                </div>
-                <div className="w-32 h-32 rounded bg-surface shrink-0 hidden md:flex items-center justify-center">
-                  <svg className="w-10 h-10 text-muted" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="4" y="2" width="16" height="20" rx="2"/><path d="M9 22v-4h6v4"/><path d="M8 6h.01"/><path d="M16 6h.01"/><path d="M12 6h.01"/><path d="M12 10h.01"/><path d="M12 14h.01"/><path d="M16 10h.01"/><path d="M16 14h.01"/><path d="M8 10h.01"/><path d="M8 14h.01"/></svg>
-                </div>
-              </div>
+              ))}
             </div>
           </div>
         </section>

@@ -44,16 +44,16 @@
     "step3desc": "Leiten Sie Ihre Anrufe an fonea weiter. Ab sofort \u00fcbernimmt die KI jedes Gespr\u00e4ch professionell und freundlich."
   },
   "industries": {
-    "title": "Branchenspezifische L\u00f6sungen",
+    "title": "Entwickelt f\u00fcr Schweizer Exzellenz.",
+    "subtitle": "Optimiert f\u00fcr Branchen mit h\u00f6chstem Qualit\u00e4tsanspruch.",
     "medical": "Arztpraxen",
-    "medicalDesc": "Automatische Terminbuchung, Rezeptbestellungen und Vorab-Triage von Notf\u00e4llen nach Ihren Vorgaben.",
+    "medicalDesc": "Entlastung f\u00fcr das Empfangsteam, garantierte Erreichbarkeit f\u00fcr Patienten.",
     "legal": "Kanzleien",
-    "legalDesc": "Pr\u00e4zise Aufnahme von Sachverhalten und Weiterleitung von dringenden Mandanten-Anrufen an den richtigen Partner.",
-    "trades": "Handwerk",
-    "tradesDesc": "Notfall-Hotline f\u00fcr Pikett-Dienste und einfache Offertanfragen direkt am Telefon.",
+    "legalDesc": "Diskretion auf h\u00f6chstem Niveau. Intelligente Vorsortierung wichtiger Mandate.",
+    "trades": "Handwerksbetriebe",
+    "tradesDesc": "Nie wieder einen Auftrag verpassen, w\u00e4hrend Sie auf der Baustelle sind.",
     "realestate": "Immobilien",
-    "realestateDesc": "Interessenten-Qualifizierung f\u00fcr Besichtigungen und effizientes Management von Mieteranliegen.",
-    "learnMore": "Mehr erfahren"
+    "realestateDesc": "Interessenten qualifizieren und Besichtigungstermine automatisch koordinieren."
   },
   "security": {
     "title1": "Schweizer L\u00f6sung.",

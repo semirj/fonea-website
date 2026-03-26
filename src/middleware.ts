@@ -37,10 +37,9 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  // Redirect to preferred locale
-  const locale = getPreferredLocale(request);
+  // Always redirect to German
   const url = request.nextUrl.clone();
-  url.pathname = `/${locale}${pathname}`;
+  url.pathname = `/${defaultLocale}${pathname}`;
   return NextResponse.redirect(url);
 }
 

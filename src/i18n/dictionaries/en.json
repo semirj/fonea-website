@@ -1,27 +1,21 @@
 {
   "meta": {
-    "title": "fonea \u2013 Your Swiss AI Phone Assistant | 24/7, 4 Languages, FADP-compliant",
-    "description": "fonea answers your calls around the clock \u2013 in German, Swiss German, French, Italian and English. 100% hosted in Switzerland."
+    "title": "fonea \u2013 Your Swiss AI Phone Assistant | 24/7, 4 Languages",
+    "description": "fonea answers your calls around the clock \u2013 in German, Swiss German, French, Italian and English. Made in Switzerland."
   },
   "nav": {
     "solutions": "Solutions",
     "security": "Security",
-    "compliance": "Compliance",
     "pricing": "Pricing",
     "login": "Log in",
     "getStarted": "Try for free"
   },
   "hero": {
-    "badge": "Live in Switzerland",
     "title1": "Your Swiss",
     "title2": "AI Phone Assistant",
-    "subtitle": "fonea answers your calls around the clock \u2014 in German, Swiss German, French, Italian and English. Book appointments, qualify inquiries, forward important calls.",
+    "subtitle": "fonea answers your business calls around the clock \u2014 in German, Swiss German, French, Italian and English. Book appointments, qualify inquiries, forward important calls.",
     "cta": "Try for free",
     "ctaSecondary": "Listen to live demo",
-    "badge1": "Swiss Hosted",
-    "badge2": "FADP/DSG-compliant",
-    "badge3": "4 National Languages",
-    "badge4": "Live in 10 min",
     "assistantName": "fonea Assistant",
     "assistantStatus": "Connected \u2022 Zurich, CH",
     "callerLabel": "Caller (Zurich):",
@@ -62,12 +56,12 @@
     "learnMore": "Learn more"
   },
   "security": {
-    "title1": "Your data stays in Switzerland.",
-    "title2": "Period.",
-    "item1title": "Full DSG/FADP compliance",
-    "item1desc": "fonea was built from the ground up for strict Swiss data protection regulations.",
-    "item2title": "Servers in Switzerland",
-    "item2desc": "No data stored abroad. All language models run on dedicated infrastructure in Switzerland."
+    "title1": "Swiss solution.",
+    "title2": "Secure hosting.",
+    "item1title": "Made in Switzerland",
+    "item1desc": "fonea was built in Switzerland \u2014 for Swiss SMBs who value quality and reliability.",
+    "item2title": "Modern AI technology",
+    "item2desc": "State-of-the-art language models deliver natural conversations \u2014 your customers barely notice the difference."
   },
   "pricing": {
     "title": "Transparent pricing",
@@ -84,18 +78,18 @@
     "cta": "Try free for 14 days"
   },
   "footer": {
-    "tagline": "Swiss Made Software.\nPrecision AI solutions for\nmodern Swiss businesses.",
+    "tagline": "Made in Switzerland.\nModern AI for\nSwiss businesses.",
     "product": "Product",
     "legal": "Legal",
     "contact": "Contact",
     "solutions": "Solutions",
     "pricing": "Pricing",
     "security": "Security",
-    "legalDsg": "Legal (DSG/FADP)",
-    "privacy": "Privacy Policy",
+    "legalDsg": "Privacy",
+    "privacy": "Privacy",
     "imprint": "Imprint",
     "location": "Zurich, Switzerland",
     "email": "hello@fonea.ch",
-    "copyright": "\u00a9 2026 fonea.ch \u2013 Swiss Made Software"
+    "copyright": "\u00a9 2026 fonea.ch \u2013 Made in Switzerland"
   }
 }

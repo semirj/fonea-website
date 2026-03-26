@@ -1,27 +1,21 @@
 {
   "meta": {
-    "title": "fonea \u2013 Il vostro assistente telefonico IA svizzero | 24/7, 4 lingue, conforme LPD",
-    "description": "fonea risponde alle vostre chiamate 24 ore su 24 \u2013 in tedesco, svizzero tedesco, francese, italiano e inglese. 100% ospitato in Svizzera."
+    "title": "fonea \u2013 Il vostro assistente telefonico IA svizzero | 24/7, 4 lingue",
+    "description": "fonea risponde alle vostre chiamate 24 ore su 24 \u2013 in tedesco, svizzero tedesco, francese, italiano e inglese. Made in Switzerland."
   },
   "nav": {
     "solutions": "Soluzioni",
     "security": "Sicurezza",
-    "compliance": "Conformit\u00e0",
     "pricing": "Prezzi",
     "login": "Accedi",
     "getStarted": "Prova gratuita"
   },
   "hero": {
-    "badge": "Operativo in Svizzera",
     "title1": "Il vostro assistente",
     "title2": "telefonico IA svizzero",
     "subtitle": "fonea risponde alle vostre chiamate 24 ore su 24 \u2014 in tedesco, svizzero tedesco, francese, italiano e inglese. Prenotazione appuntamenti, qualificazione richieste, inoltro chiamate importanti.",
     "cta": "Prova gratuita",
     "ctaSecondary": "Ascolta la demo",
-    "badge1": "Ospitato in Svizzera",
-    "badge2": "Conforme LPD/nLPD",
-    "badge3": "4 lingue nazionali",
-    "badge4": "Operativo in 10 min",
     "assistantName": "Assistente fonea",
     "assistantStatus": "Connesso \u2022 Zurigo, CH",
     "callerLabel": "Chiamante (Lugano):",
@@ -62,12 +56,12 @@
     "learnMore": "Scopri di pi\u00f9"
   },
   "security": {
-    "title1": "I vostri dati restano in Svizzera.",
-    "title2": "Punto.",
-    "item1title": "Piena conformit\u00e0 LPD/nLPD",
-    "item1desc": "fonea \u00e8 stato progettato da zero per le rigide normative svizzere sulla protezione dei dati.",
-    "item2title": "Server in Svizzera",
-    "item2desc": "Nessun dato archiviato all\u2019estero. Tutti i modelli linguistici funzionano su infrastruttura dedicata in Svizzera."
+    "title1": "Soluzione svizzera.",
+    "title2": "Hosting sicuro.",
+    "item1title": "Made in Switzerland",
+    "item1desc": "fonea \u00e8 stato sviluppato in Svizzera \u2014 per le PMI svizzere che puntano su qualit\u00e0 e affidabilit\u00e0.",
+    "item2title": "Tecnologia IA moderna",
+    "item2desc": "Modelli linguistici all\u2019avanguardia per conversazioni naturali \u2014 i vostri clienti quasi non notano la differenza."
   },
   "pricing": {
     "title": "Prezzi trasparenti",
@@ -84,18 +78,18 @@
     "cta": "Prova gratuita di 14 giorni"
   },
   "footer": {
-    "tagline": "Swiss Made Software.\nSoluzioni IA di precisione per\nle moderne aziende svizzere.",
+    "tagline": "Made in Switzerland.\nIA moderna per\nle aziende svizzere.",
     "product": "Prodotto",
     "legal": "Legale",
     "contact": "Contatto",
     "solutions": "Soluzioni",
     "pricing": "Prezzi",
     "security": "Sicurezza",
-    "legalDsg": "Legale (LPD)",
+    "legalDsg": "Privacy",
     "privacy": "Privacy",
     "imprint": "Impressum",
     "location": "Zurigo, Svizzera",
     "email": "hello@fonea.ch",
-    "copyright": "\u00a9 2026 fonea.ch \u2013 Swiss Made Software"
+    "copyright": "\u00a9 2026 fonea.ch \u2013 Made in Switzerland"
   }
 }

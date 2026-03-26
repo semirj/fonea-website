@@ -236,7 +236,7 @@ export default async function Home({
               <div className="space-y-8">
                 <div className="flex gap-6">
                   <div className="w-12 h-12 bg-surface rounded-full flex items-center justify-center shrink-0">
-                    <svg className="w-5 h-5 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+                    <svg className="w-5 h-5 text-accent" viewBox="0 0 32 32" fill="currentColor"><rect x="13" y="6" width="6" height="20" rx="1"/><rect x="6" y="13" width="20" height="6" rx="1"/></svg>
                   </div>
                   <div>
                     <h4 className="font-bold mb-1">{t.security.item1title}</h4>
@@ -245,7 +245,7 @@ export default async function Home({
                 </div>
                 <div className="flex gap-6">
                   <div className="w-12 h-12 bg-surface rounded-full flex items-center justify-center shrink-0">
-                    <svg className="w-5 h-5 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="2" y="6" width="20" height="12" rx="2"/><path d="M6 12h.01"/><path d="M10 12h.01"/></svg>
+                    <svg className="w-5 h-5 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2a8 8 0 0 0-8 8c0 3.4 2.1 6.3 5 7.5V20h6v-2.5c2.9-1.2 5-4.1 5-7.5a8 8 0 0 0-8-8z"/><path d="M12 2v0"/></svg>
                   </div>
                   <div>
                     <h4 className="font-bold mb-1">{t.security.item2title}</h4>

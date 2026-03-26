@@ -1,27 +1,21 @@
 {
   "meta": {
-    "title": "fonea \u2013 Ihr Schweizer KI-Telefonassistent | 24/7, 4 Sprachen, FADP-konform",
-    "description": "fonea beantwortet Ihre Anrufe rund um die Uhr \u2013 auf Deutsch, Schweizerdeutsch, Franz\u00f6sisch, Italienisch und Englisch. 100% in der Schweiz gehostet."
+    "title": "fonea \u2013 Ihr Schweizer KI-Telefonassistent | 24/7, 4 Sprachen",
+    "description": "fonea beantwortet Ihre Anrufe rund um die Uhr \u2013 auf Deutsch, Schweizerdeutsch, Franz\u00f6sisch, Italienisch und Englisch. Made in Switzerland."
   },
   "nav": {
-    "solutions": "Solutions",
+    "solutions": "L\u00f6sungen",
     "security": "Sicherheit",
-    "compliance": "Compliance",
     "pricing": "Preise",
     "login": "Anmelden",
     "getStarted": "Kostenlos testen"
   },
   "hero": {
-    "badge": "Live in der Schweiz",
     "title1": "Ihr Schweizer",
     "title2": "KI-Telefonassistent",
     "subtitle": "fonea beantwortet Ihre Anrufe rund um die Uhr \u2014 auf Deutsch, Schweizerdeutsch, Franz\u00f6sisch, Italienisch und Englisch. Termine buchen, Anfragen qualifizieren, wichtige Anrufe weiterleiten.",
     "cta": "Kostenlos testen",
     "ctaSecondary": "Live-Demo anh\u00f6ren",
-    "badge1": "Swiss Hosted",
-    "badge2": "FADP/DSG-konform",
-    "badge3": "4 Landessprachen",
-    "badge4": "In 10 Min. live",
     "assistantName": "fonea Assistent",
     "assistantStatus": "Verbunden \u2022 Z\u00fcrich, CH",
     "callerLabel": "Anrufer (Z\u00fcrich):",
@@ -62,12 +56,12 @@
     "learnMore": "Mehr erfahren"
   },
   "security": {
-    "title1": "Ihre Daten bleiben in der Schweiz.",
-    "title2": "Punkt.",
-    "item1title": "Volle DSG/nFADP Konformit\u00e4t",
-    "item1desc": "fonea wurde von Grund auf f\u00fcr die strengen Schweizer Datenschutzrichtlinien entwickelt.",
-    "item2title": "Serverstandort Schweiz",
-    "item2desc": "Keine Datenspeicherung im Ausland. Alle Sprachmodelle laufen auf dedizierter Infrastruktur in der Schweiz."
+    "title1": "Schweizer L\u00f6sung.",
+    "title2": "Sicheres Hosting.",
+    "item1title": "Made in Switzerland",
+    "item1desc": "fonea wurde in der Schweiz entwickelt \u2014 f\u00fcr Schweizer KMU, die Wert auf Qualit\u00e4t und Zuverl\u00e4ssigkeit legen.",
+    "item2title": "Moderne KI-Technologie",
+    "item2desc": "Modernste Sprachmodelle sorgen f\u00fcr nat\u00fcrliche Gespr\u00e4che \u2014 Ihre Kunden merken kaum einen Unterschied."
   },
   "pricing": {
     "title": "Transparente Preise",
@@ -84,18 +78,18 @@
     "cta": "Jetzt 14 Tage kostenlos testen"
   },
   "footer": {
-    "tagline": "Swiss Made Software.\nHochpr\u00e4zise KI-L\u00f6sungen f\u00fcr\nmoderne Schweizer Unternehmen.",
+    "tagline": "Made in Switzerland.\nModerne KI f\u00fcr\nSchweizer Unternehmen.",
     "product": "Produkt",
     "legal": "Rechtliches",
     "contact": "Kontakt",
-    "solutions": "Solutions",
+    "solutions": "L\u00f6sungen",
     "pricing": "Preise",
     "security": "Sicherheit",
-    "legalDsg": "Legal (DSG/FADP)",
+    "legalDsg": "Datenschutz",
     "privacy": "Datenschutz",
     "imprint": "Impressum",
     "location": "Z\u00fcrich, Schweiz",
     "email": "hello@fonea.ch",
-    "copyright": "\u00a9 2026 fonea.ch \u2013 Swiss Made Software"
+    "copyright": "\u00a9 2026 fonea.ch \u2013 Made in Switzerland"
   }
 }

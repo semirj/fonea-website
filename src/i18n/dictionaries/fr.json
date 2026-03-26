@@ -1,27 +1,21 @@
 {
   "meta": {
-    "title": "fonea \u2013 Votre assistant t\u00e9l\u00e9phonique IA suisse | 24/7, 4 langues, conforme LPD",
-    "description": "fonea r\u00e9pond \u00e0 vos appels 24h/24 \u2013 en allemand, suisse allemand, fran\u00e7ais, italien et anglais. 100% h\u00e9berg\u00e9 en Suisse."
+    "title": "fonea \u2013 Votre assistant t\u00e9l\u00e9phonique IA suisse | 24/7, 4 langues",
+    "description": "fonea r\u00e9pond \u00e0 vos appels 24h/24 \u2013 en allemand, suisse allemand, fran\u00e7ais, italien et anglais. Made in Switzerland."
   },
   "nav": {
     "solutions": "Solutions",
     "security": "S\u00e9curit\u00e9",
-    "compliance": "Conformit\u00e9",
     "pricing": "Tarifs",
     "login": "Connexion",
     "getStarted": "Essai gratuit"
   },
   "hero": {
-    "badge": "Op\u00e9rationnel en Suisse",
     "title1": "Votre assistant",
     "title2": "t\u00e9l\u00e9phonique IA suisse",
     "subtitle": "fonea r\u00e9pond \u00e0 vos appels 24h/24 \u2014 en allemand, suisse allemand, fran\u00e7ais, italien et anglais. Prise de rendez-vous, qualification des demandes, transfert des appels importants.",
     "cta": "Essayer gratuitement",
     "ctaSecondary": "\u00c9couter la d\u00e9mo",
-    "badge1": "H\u00e9berg\u00e9 en Suisse",
-    "badge2": "Conforme LPD/nLPD",
-    "badge3": "4 langues nationales",
-    "badge4": "Op\u00e9rationnel en 10 min",
     "assistantName": "Assistant fonea",
     "assistantStatus": "Connect\u00e9 \u2022 Zurich, CH",
     "callerLabel": "Appelant (Gen\u00e8ve)\u00a0:",
@@ -62,12 +56,12 @@
     "learnMore": "En savoir plus"
   },
   "security": {
-    "title1": "Vos donn\u00e9es restent en Suisse.",
-    "title2": "Point.",
-    "item1title": "Pleine conformit\u00e9 LPD/nLPD",
-    "item1desc": "fonea a \u00e9t\u00e9 con\u00e7u d\u00e8s le d\u00e9part pour les strictes r\u00e9glementations suisses en mati\u00e8re de protection des donn\u00e9es.",
-    "item2title": "Serveurs en Suisse",
-    "item2desc": "Aucun stockage de donn\u00e9es \u00e0 l\u2019\u00e9tranger. Tous les mod\u00e8les linguistiques fonctionnent sur une infrastructure d\u00e9di\u00e9e en Suisse."
+    "title1": "Solution suisse.",
+    "title2": "H\u00e9bergement s\u00e9curis\u00e9.",
+    "item1title": "Made in Switzerland",
+    "item1desc": "fonea a \u00e9t\u00e9 d\u00e9velopp\u00e9 en Suisse \u2014 pour les PME suisses qui misent sur la qualit\u00e9 et la fiabilit\u00e9.",
+    "item2title": "Technologie IA moderne",
+    "item2desc": "Des mod\u00e8les linguistiques de pointe pour des conversations naturelles \u2014 vos clients ne voient presque pas la diff\u00e9rence."
   },
   "pricing": {
     "title": "Tarifs transparents",
@@ -84,18 +78,18 @@
     "cta": "Essai gratuit de 14 jours"
   },
   "footer": {
-    "tagline": "Swiss Made Software.\nSolutions IA de pr\u00e9cision pour\nles entreprises suisses modernes.",
+    "tagline": "Made in Switzerland.\nIA moderne pour\nles entreprises suisses.",
     "product": "Produit",
     "legal": "L\u00e9gal",
     "contact": "Contact",
     "solutions": "Solutions",
     "pricing": "Tarifs",
     "security": "S\u00e9curit\u00e9",
-    "legalDsg": "L\u00e9gal (LPD)",
+    "legalDsg": "Confidentialit\u00e9",
     "privacy": "Confidentialit\u00e9",
     "imprint": "Mentions l\u00e9gales",
     "location": "Zurich, Suisse",
     "email": "hello@fonea.ch",
-    "copyright": "\u00a9 2026 fonea.ch \u2013 Swiss Made Software"
+    "copyright": "\u00a9 2026 fonea.ch \u2013 Made in Switzerland"
   }
 }

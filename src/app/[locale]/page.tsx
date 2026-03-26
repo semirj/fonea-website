@@ -68,9 +68,9 @@ export default async function Home({
                   {t.hero.badge}
                 </span>
               </div>
-              <h1 className="text-5xl lg:text-7xl font-bold tracking-tight leading-[1.1] mb-8">
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.1] mb-8">
                 {t.hero.title1} <br />
-                <span className="text-accent">{t.hero.title2}</span>
+                <span className="text-accent whitespace-nowrap">{t.hero.title2}</span>
               </h1>
               <p className="text-xl text-secondary leading-relaxed mb-10 max-w-xl">
                 {t.hero.subtitle}

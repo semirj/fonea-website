@@ -341,8 +341,7 @@ export default async function Home({
           </div>
           <div>
             <h4 className="text-xs font-bold uppercase tracking-widest text-muted mb-4">{t.footer.contact}</h4>
-            <div className="text-xs text-secondary space-y-2">
-              <p>{t.footer.location}</p>
+            <div className="text-xs text-secondary">
               <p>{t.footer.email}</p>
             </div>
           </div>

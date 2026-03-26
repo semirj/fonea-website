@@ -62,12 +62,6 @@ export default async function Home({
         <section className="relative overflow-hidden bg-white py-24 lg:py-32">
           <div className="max-w-7xl mx-auto px-8 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="z-10">
-              <div className="inline-flex items-center gap-2 bg-surface px-3 py-1 rounded-full mb-6">
-                <span className="w-2 h-2 rounded-full bg-accent animate-pulse" />
-                <span className="text-xs font-semibold tracking-wider uppercase text-secondary">
-                  {t.hero.badge}
-                </span>
-              </div>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.1] mb-8">
                 {t.hero.title1} <br />
                 <span className="text-accent whitespace-nowrap">{t.hero.title2}</span>
@@ -128,13 +122,13 @@ export default async function Home({
                 </div>
                 {/* Conversation */}
                 <div className="space-y-4">
-                  <div className="bg-white/5 p-4 rounded-lg">
-                    <p className="text-xs text-white/50 mb-1 italic">{t.hero.callerLabel}</p>
-                    <p className="text-sm text-white font-medium">&ldquo;{t.hero.callerText}&rdquo;</p>
+                  <div className="bg-white/5 p-5 rounded-lg">
+                    <p className="text-xs text-white/50 mb-1.5 italic">{t.hero.callerLabel}</p>
+                    <p className="text-base text-white font-medium leading-relaxed">&ldquo;{t.hero.callerText}&rdquo;</p>
                   </div>
-                  <div className="bg-accent/20 p-4 rounded-lg border border-accent/30">
-                    <p className="text-xs text-accent mb-1 italic">{t.hero.aiLabel}</p>
-                    <p className="text-sm text-white font-medium">&ldquo;{t.hero.aiText}&rdquo;</p>
+                  <div className="bg-accent/20 p-5 rounded-lg border border-accent/30">
+                    <p className="text-xs text-accent mb-1.5 italic">{t.hero.aiLabel}</p>
+                    <p className="text-base text-white font-medium leading-relaxed">&ldquo;{t.hero.aiText}&rdquo;</p>
                   </div>
                 </div>
               </div>

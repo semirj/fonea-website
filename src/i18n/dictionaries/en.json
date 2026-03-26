@@ -19,9 +19,9 @@
     "assistantName": "fonea Assistant",
     "assistantStatus": "Connected \u2022 Zurich, CH",
     "callerLabel": "Caller (Zurich):",
-    "callerText": "Hello, I\u2019d like to book an appointment for my check-up please.",
+    "callerText": "Hi, I\u2019d like to book my car in for a service please.",
     "aiLabel": "fonea:",
-    "aiText": "Of course, I\u2019d be happy to help. Would next Thursday morning work for you?"
+    "aiText": "Sure thing. What kind of car is it and when would work best for you?"
   },
   "pain": {
     "title": "Every missed call costs you money",

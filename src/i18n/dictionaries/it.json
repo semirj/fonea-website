@@ -19,9 +19,9 @@
     "assistantName": "Assistente fonea",
     "assistantStatus": "Connesso \u2022 Zurigo, CH",
     "callerLabel": "Chiamante (Lugano):",
-    "callerText": "Buongiorno, vorrei fissare un appuntamento per un controllo, per favore.",
+    "callerText": "Buongiorno, vorrei prenotare un tagliando per la mia auto.",
     "aiLabel": "fonea:",
-    "aiText": "Certo, con piacere. Gioved\u00ec prossimo in mattinata andrebbe bene per Lei?"
+    "aiText": "Certo. Che tipo di auto ha e quando Le andrebbe bene?"
   },
   "pain": {
     "title": "Ogni chiamata persa vi costa denaro",

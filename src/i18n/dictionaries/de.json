@@ -19,9 +19,9 @@
     "assistantName": "fonea Assistent",
     "assistantStatus": "Verbunden \u2022 Z\u00fcrich, CH",
     "callerLabel": "Anrufer (Z\u00fcrich):",
-    "callerText": "Gr\u00fcezi, ich m\u00f6chte gern en Termin f\u00fcr mini Kontrolluntersuechig bueche.",
+    "callerText": "Gr\u00fcezi, ich m\u00f6cht gern en Termin f\u00fcr en Service a mim Auto bueche.",
     "aiLabel": "fonea:",
-    "aiText": "Sicher, das mache mir g\u00e4rn. H\u00e4nd Sie am n\u00e4chste Dunschtig am Vormittag Ziit?"
+    "aiText": "Klar, das mache mir g\u00e4rn. Um was f\u00fcren Auto gaats und w\u00e4nn passts Ihne am beschte?"
   },
   "pain": {
     "title": "Jeder verpasste Anruf kostet Sie Geld",

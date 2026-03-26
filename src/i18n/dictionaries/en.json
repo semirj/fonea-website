@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "fonea \u2013 Your Swiss AI Phone Assistant | 24/7, 4 Languages, FADP-compliant",
+    "description": "fonea answers your calls around the clock \u2013 in German, Swiss German, French, Italian and English. 100% hosted in Switzerland."
+  },
+  "nav": {
+    "solutions": "Solutions",
+    "security": "Security",
+    "compliance": "Compliance",
+    "pricing": "Pricing",
+    "login": "Log in",
+    "getStarted": "Try for free"
+  },
+  "hero": {
+    "badge": "Live in Switzerland",
+    "title1": "Your Swiss",
+    "title2": "AI Phone Assistant",
+    "subtitle": "fonea answers your calls around the clock \u2014 in German, Swiss German, French, Italian and English. Book appointments, qualify inquiries, forward important calls. 100% hosted in Switzerland.",
+    "cta": "Try for free",
+    "ctaSecondary": "Listen to live demo",
+    "badge1": "Swiss Hosted",
+    "badge2": "FADP/DSG-compliant",
+    "badge3": "4 National Languages",
+    "badge4": "Live in 10 min",
+    "assistantName": "fonea Assistant",
+    "assistantStatus": "Connected \u2022 Zurich, CH",
+    "callerLabel": "Caller (Zurich):",
+    "callerText": "Hello, I\u2019d like to book an appointment for my check-up please.",
+    "aiLabel": "fonea:",
+    "aiText": "Of course, I\u2019d be happy to help. Would next Thursday morning work for you?"
+  },
+  "pain": {
+    "title": "Every missed call costs you money",
+    "subtitle": "Waiting is the number one reason customers leave. fonea makes sure no call goes unanswered.",
+    "item1title": "No wait times",
+    "item1desc": "Every call is answered instantly. Your customers never have to sit in a queue again.",
+    "item2title": "Higher revenue",
+    "item2desc": "Qualify inquiries immediately and book appointments on the spot while the customer is still on the phone.",
+    "item3title": "Focus for your team",
+    "item3desc": "Free your staff from routine calls so they can focus on complex tasks and in-person customers."
+  },
+  "steps": {
+    "title": "Live in 3 simple steps",
+    "subtitle": "No IT skills required. Your assistant is ready in less than 10 minutes.",
+    "step1title": "Create account",
+    "step1desc": "Sign up in 2 minutes and choose your desired phone number or use your existing one.",
+    "step2title": "Train your assistant",
+    "step2desc": "Give fonea information about your services, opening hours and scheduling tools. fonea learns instantly.",
+    "step3title": "Activate",
+    "step3desc": "Forward your calls to fonea. From now on, AI handles every call professionally and friendly."
+  },
+  "industries": {
+    "title": "Industry-specific solutions",
+    "medical": "Medical practices",
+    "medicalDesc": "Automatic appointment booking, prescription orders and pre-triage of emergencies according to your specifications.",
+    "legal": "Law firms",
+    "legalDesc": "Precise case intake and forwarding of urgent client calls to the right partner.",
+    "trades": "Trades",
+    "tradesDesc": "Emergency hotline for on-call services and simple quote requests directly over the phone.",
+    "realestate": "Real estate",
+    "realestateDesc": "Prospect qualification for viewings and efficient management of tenant inquiries.",
+    "learnMore": "Learn more"
+  },
+  "security": {
+    "title1": "Your data stays in Switzerland.",
+    "title2": "Period.",
+    "item1title": "Full DSG/FADP compliance",
+    "item1desc": "fonea was built from the ground up for strict Swiss data protection regulations.",
+    "item2title": "Servers in Switzerland",
+    "item2desc": "No data stored abroad. All language models run on dedicated infrastructure in Switzerland."
+  },
+  "pricing": {
+    "title": "Transparent pricing",
+    "subtitle": "No hidden costs. Full control over your budget. Scales with your success.",
+    "popular": "Popular",
+    "planName": "Starter",
+    "currency": "CHF",
+    "price": "89",
+    "period": "/mo",
+    "feature1": "200 minutes included",
+    "feature2": "All 4 national languages + English",
+    "feature3": "Calendar sync",
+    "feature4": "Email & SMS notifications",
+    "cta": "Try free for 14 days"
+  },
+  "footer": {
+    "tagline": "Swiss Made Software.\nPrecision AI solutions for\nmodern Swiss businesses.",
+    "product": "Product",
+    "legal": "Legal",
+    "contact": "Contact",
+    "solutions": "Solutions",
+    "pricing": "Pricing",
+    "security": "Security",
+    "legalDsg": "Legal (DSG/FADP)",
+    "privacy": "Privacy Policy",
+    "imprint": "Imprint",
+    "location": "Zurich, Switzerland",
+    "email": "hello@fonea.ch",
+    "copyright": "\u00a9 2026 fonea.ch \u2013 Swiss Made Software"
+  }
+}

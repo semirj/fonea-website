@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "fonea \u2013 Il vostro assistente telefonico IA svizzero | 24/7, 4 lingue, conforme LPD",
+    "description": "fonea risponde alle vostre chiamate 24 ore su 24 \u2013 in tedesco, svizzero tedesco, francese, italiano e inglese. 100% ospitato in Svizzera."
+  },
+  "nav": {
+    "solutions": "Soluzioni",
+    "security": "Sicurezza",
+    "compliance": "Conformit\u00e0",
+    "pricing": "Prezzi",
+    "login": "Accedi",
+    "getStarted": "Prova gratuita"
+  },
+  "hero": {
+    "badge": "Operativo in Svizzera",
+    "title1": "Il vostro assistente",
+    "title2": "telefonico IA svizzero",
+    "subtitle": "fonea risponde alle vostre chiamate 24 ore su 24 \u2014 in tedesco, svizzero tedesco, francese, italiano e inglese. Prenotazione appuntamenti, qualificazione richieste, inoltro chiamate importanti. 100% ospitato in Svizzera.",
+    "cta": "Prova gratuita",
+    "ctaSecondary": "Ascolta la demo",
+    "badge1": "Ospitato in Svizzera",
+    "badge2": "Conforme LPD/nLPD",
+    "badge3": "4 lingue nazionali",
+    "badge4": "Operativo in 10 min",
+    "assistantName": "Assistente fonea",
+    "assistantStatus": "Connesso \u2022 Zurigo, CH",
+    "callerLabel": "Chiamante (Lugano):",
+    "callerText": "Buongiorno, vorrei fissare un appuntamento per un controllo, per favore.",
+    "aiLabel": "fonea:",
+    "aiText": "Certo, con piacere. Gioved\u00ec prossimo in mattinata andrebbe bene per Lei?"
+  },
+  "pain": {
+    "title": "Ogni chiamata persa vi costa denaro",
+    "subtitle": "L\u2019attesa \u00e8 la causa principale della perdita di clienti. fonea garantisce che nessuna chiamata resti senza risposta.",
+    "item1title": "Zero tempi d\u2019attesa",
+    "item1desc": "Ogni chiamata viene risposta immediatamente. I vostri clienti non devono pi\u00f9 attendere in coda.",
+    "item2title": "Pi\u00f9 fatturato",
+    "item2desc": "Qualificate le richieste immediatamente e prenotate appuntamenti mentre il cliente \u00e8 ancora al telefono.",
+    "item3title": "Concentrazione per il team",
+    "item3desc": "Liberate il personale dalle chiamate di routine per concentrarsi su compiti complessi e clienti in sede."
+  },
+  "steps": {
+    "title": "Operativo in 3 semplici passi",
+    "subtitle": "Nessuna competenza IT richiesta. Il vostro assistente \u00e8 pronto in meno di 10 minuti.",
+    "step1title": "Creare un account",
+    "step1desc": "Registratevi in 2 minuti e scegliete il numero di telefono desiderato o utilizzate quello esistente.",
+    "step2title": "Addestrare l\u2019assistente",
+    "step2desc": "Date a fonea informazioni sui vostri servizi, orari e strumenti di pianificazione. fonea impara subito.",
+    "step3title": "Attivazione",
+    "step3desc": "Inoltrate le chiamate a fonea. Da ora l\u2019IA gestisce ogni chiamata in modo professionale e cordiale."
+  },
+  "industries": {
+    "title": "Soluzioni per settore",
+    "medical": "Studi medici",
+    "medicalDesc": "Prenotazione automatica appuntamenti, ordini ricette e pre-triage delle emergenze secondo i vostri criteri.",
+    "legal": "Studi legali",
+    "legalDesc": "Registrazione precisa dei casi e inoltro delle chiamate urgenti al partner giusto.",
+    "trades": "Artigianato",
+    "tradesDesc": "Hotline d\u2019emergenza per servizi di reperibilit\u00e0 e richieste di preventivo direttamente al telefono.",
+    "realestate": "Immobiliare",
+    "realestateDesc": "Qualificazione dei potenziali clienti per le visite e gestione efficiente delle richieste degli inquilini.",
+    "learnMore": "Scopri di pi\u00f9"
+  },
+  "security": {
+    "title1": "I vostri dati restano in Svizzera.",
+    "title2": "Punto.",
+    "item1title": "Piena conformit\u00e0 LPD/nLPD",
+    "item1desc": "fonea \u00e8 stato progettato da zero per le rigide normative svizzere sulla protezione dei dati.",
+    "item2title": "Server in Svizzera",
+    "item2desc": "Nessun dato archiviato all\u2019estero. Tutti i modelli linguistici funzionano su infrastruttura dedicata in Svizzera."
+  },
+  "pricing": {
+    "title": "Prezzi trasparenti",
+    "subtitle": "Nessun costo nascosto. Controllo totale sul budget. Scalabile con il vostro successo.",
+    "popular": "Popolare",
+    "planName": "Starter",
+    "currency": "CHF",
+    "price": "89",
+    "period": "/mese",
+    "feature1": "200 minuti inclusi",
+    "feature2": "Tutte le 4 lingue nazionali + inglese",
+    "feature3": "Sincronizzazione calendario",
+    "feature4": "Notifiche email e SMS",
+    "cta": "Prova gratuita di 14 giorni"
+  },
+  "footer": {
+    "tagline": "Swiss Made Software.\nSoluzioni IA di precisione per\nle moderne aziende svizzere.",
+    "product": "Prodotto",
+    "legal": "Legale",
+    "contact": "Contatto",
+    "solutions": "Soluzioni",
+    "pricing": "Prezzi",
+    "security": "Sicurezza",
+    "legalDsg": "Legale (LPD)",
+    "privacy": "Privacy",
+    "imprint": "Impressum",
+    "location": "Zurigo, Svizzera",
+    "email": "hello@fonea.ch",
+    "copyright": "\u00a9 2026 fonea.ch \u2013 Swiss Made Software"
+  }
+}

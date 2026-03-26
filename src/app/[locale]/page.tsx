@@ -78,16 +78,8 @@ export default async function Home({
                   {t.hero.ctaSecondary}
                 </button>
               </div>
-              {/* Trust Badges */}
-              <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 opacity-70">
-                {[t.hero.badge1, t.hero.badge2, t.hero.badge3, t.hero.badge4].map((badge) => (
-                  <div key={badge} className="flex flex-col gap-1">
-                    <span className="text-xs font-bold uppercase tracking-widest text-secondary/70">
-                      {badge}
-                    </span>
-                    <div className="h-1 w-8 bg-muted" />
-                  </div>
-                ))}
+              <div className="mt-16">
+                <span className="text-xs font-bold uppercase tracking-widest text-secondary/50">Made in Switzerland</span>
               </div>
             </div>
 
